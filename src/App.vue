@@ -7,7 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
         <div class="md:flex">
           <div class="md:shrink-0">
-            <img class="rounded-lg h-48 w-full object-cover md:h-full md:w-48" src="ITME.jpg">
+            <!-- <img class="rounded-lg h-48 w-full object-cover md:h-full md:w-48" src="ITME.jpg"> -->
           </div>
           <div class="p-8">
             <div class="uppercase tracking-wide text-sm font-semibold">Hannan Yussof</div>
